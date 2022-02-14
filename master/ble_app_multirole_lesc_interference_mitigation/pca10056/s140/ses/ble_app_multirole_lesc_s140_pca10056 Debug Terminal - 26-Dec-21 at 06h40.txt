@@ -1,0 +1,499 @@
+<info> app: Start channel survey
+<info> app: LE Secure Connections example started.
+<debug> ble_scan: Scanning
+<info> app: Scanning
+<info> app: Advertising
+My Address a9
+My Address 2 bd
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Data 5 Manuf 61
+Data 6 Manuf 18
+Data 7 Manuf 1
+Data 8 Manuf 18
+Data 9 Manuf 2
+Data 10 Manuf 18
+Data 11 Manuf f
+Data 12 Manuf ff
+Data 13 Manuf 59
+Data 14 Manuf 0
+Data 15 Manuf 0
+Data 16 Manuf 11
+Data 17 Manuf 0
+Data 18 Manuf b0
+Data 19 Manuf 42
+Data 20 Manuf 0
+Data 21 Manuf 0
+Data 22 Manuf 0
+Data 23 Manuf 50
+Data 24 Manuf 40
+Data 25 Manuf 4
+Data 26 Manuf 1
+Data 27 Manuf 0
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+<info> app: Channel energy report:
+--------------
+
+<debug> app: 00-04:  -98  -98  -97  -96  -96
+<debug> app: 05-09:  -96  -95  -96  -95  -94
+<debug> app: 10-14:  -93  -93  -92  -93  -93
+<debug> app: 15-19:  -95  -96  -96  -96  -95
+<debug> app: 20-24:  -94  -97  -98  -98  -97
+<debug> app: 25-29:  -97  -97  -97  -97  -96
+<debug> app: 30-34:  -97  -98  -98  -97  -99
+<debug> app: 35-39:  -99  -98  -98  -95  -99
+<debug> app: Top Best Clean Channel Index:
+<debug> app: 35 39 34 01 00
+<debug> app: 37 36 23 31 32
+<debug> app: 22 24 21 30 02
+<debug> app: 33 28 25 26 27
+<debug> app: 17 04 16 18 03
+<debug> app: 05 29 07 38 06
+<debug> app: 19 15 08 20 09
+<debug> app: 14 13
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Data 5 Manuf 61
+Data 6 Manuf 18
+Data 7 Manuf 1
+Data 8 Manuf 18
+Data 9 Manuf 2
+Data 10 Manuf 18
+Data 11 Manuf f
+Data 12 Manuf ff
+Data 13 Manuf 59
+Data 14 Manuf 0
+Data 15 Manuf 0
+Data 16 Manuf 11
+Data 17 Manuf 0
+Data 18 Manuf b0
+Data 19 Manuf 42
+Data 20 Manuf 0
+Data 21 Manuf 0
+Data 22 Manuf 0
+Data 23 Manuf 50
+Data 24 Manuf 40
+Data 25 Manuf 4
+Data 26 Manuf 1
+Data 27 Manuf 0
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Data 5 Manuf 61
+Data 6 Manuf 18
+Data 7 Manuf 1
+Data 8 Manuf 18
+Data 9 Manuf 2
+Data 10 Manuf 18
+Data 11 Manuf f
+Data 12 Manuf ff
+Data 13 Manuf 59
+Data 14 Manuf 0
+Data 15 Manuf 0
+Data 16 Manuf 11
+Data 17 Manuf 0
+Data 18 Manuf b0
+Data 19 Manuf 42
+Data 20 Manuf 0
+Data 21 Manuf 0
+Data 22 Manuf 0
+Data 23 Manuf 50
+Data 24 Manuf 40
+Data 25 Manuf 4
+Data 26 Manuf 1
+Data 27 Manuf 0
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Data 5 Manuf 61
+Data 6 Manuf 18
+Data 7 Manuf 1
+Data 8 Manuf 18
+Data 9 Manuf 2
+Data 10 Manuf 18
+Data 11 Manuf f
+Data 12 Manuf ff
+Data 13 Manuf 59
+Data 14 Manuf 0
+Data 15 Manuf 0
+Data 16 Manuf 11
+Data 17 Manuf 0
+Data 18 Manuf b0
+Data 19 Manuf 42
+Data 20 Manuf 0
+Data 21 Manuf 0
+Data 22 Manuf 0
+Data 23 Manuf 50
+Data 24 Manuf 40
+Data 25 Manuf 4
+Data 26 Manuf 1
+Data 27 Manuf 0
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd

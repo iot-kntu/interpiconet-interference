@@ -1,0 +1,82 @@
+<info> app_timer: RTC: initialized.
+<debug> ble_scan: Added filter on UUID 180D
+<debug> nrf_ble_lesc: Initialized nrf_crypto.
+<debug> nrf_ble_lesc: Initialized nrf_ble_lesc.
+<debug> nrf_ble_lesc: Generating ECC key pair
+<info> app: Start channel survey
+<info> app: LE Secure Connections example started.
+<debug> ble_scan: Scanning
+<info> app: Scanning
+<info> app: Advertising
+<info> app: Channel energy report:
+--------------
+
+<debug> app: 00-04:  -99  -98  -93  -95  -97
+<debug> app: 05-09:  -97  -97  -96  -96  -95
+<debug> app: 10-14:  -95  -95  -95  -95  -95
+<debug> app: 15-19:  -95  -95  -97  -97  -98
+<debug> app: 20-24:  -98  -98  -99  -97  -97
+<debug> app: 25-29:  -97  -98  -98  -97  -97
+<debug> app: 30-34:  -97  -99  -99 -100  -98
+<debug> app: 35-39:  -99 -100  -99  -96  -99
+<debug> app: Top Best Clean Channel Index:
+<debug> app: 36 33 31 35 32
+<debug> app: 39 22 37 00 26
+<debug> app: 21 01 20 34 19
+<debug> app: 27 28 24 18 17
+<debug> app: 30 06 29 25 05
+<debug> app: 23 04 07 38 08
+<debug> app: 03 09 12 13 10
+<debug> app: 11 14
+Adv type is: 3
+Manuf Data is: 0
+Data Avale Manuf 2
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 0
+Data 2a985b54565d206d6d6d497da99f1b5e497d2c9f1a1000000098870201f0000000000
+Adv type is: 11
+Manuf Data is: 0
+Data Avale Manuf 5
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 6
+Data 59527a6154565d206d6d6d497da99f1b5e497d2c9f1a1000000098870201f0000000000
+<info> app: Advertising packet received:
+                        |        
+<info> app: Scan response received:
+Adv type is: 3
+Manuf Data is: 0
+Data Avale Manuf 2
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 0
+Data 211a369fd111669fd02d5c462a18b1e818dc127af52000000098870201f0000000000
+Adv type is: 11
+Manuf Data is: 0
+Data Avale Manuf 5
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 6
+Data 59527a61fd111669fd02d5c462a18b1e818dc127af52000000098870201f0000000000
+<info> app: Advertising packet received:
+                        |        
+<info> app: Scan response received:
+Adv type is: 3
+Manuf Data is: 0
+Data Avale Manuf 2
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 0
+Data 2a985b54565d206d6d6d497da99f1b5e497d2c9f1a1000000098870201f0000000000
+Adv type is: 11
+Manuf Data is: 0
+Data Avale Manuf 5
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 6
+Data 59527a6154565d206d6d6d497da99f1b5e497d2c9f1a1000000098870201f0000000000
+<info> app: Advertising packet received:
+                        |        
+<info> app: Scan response received:
+ 05 09 52 65 7A 61      |.	Reza  

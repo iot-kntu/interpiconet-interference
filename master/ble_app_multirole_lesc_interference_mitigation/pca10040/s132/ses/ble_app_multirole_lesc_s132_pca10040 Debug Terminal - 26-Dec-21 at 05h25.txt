@@ -1,0 +1,256 @@
+<info> app_timer: RTC: initialized.
+<debug> ble_scan: Adding filter on Heartrate name
+<debug> ble_scan: Added filter on UUID 180D
+<debug> nrf_ble_lesc: Initialized nrf_crypto.
+<debug> nrf_ble_lesc: Initialized nrf_ble_lesc.
+<debug> nrf_ble_lesc: Generating ECC key pair
+<info> app: Start channel survey
+<info> app: LE Secure Connections example started.
+<debug> ble_scan: Scanning
+<info> app: Scanning
+<info> app: Advertising
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Data 5 Manuf 61
+Data 6 Manuf 18
+Data 7 Manuf 1
+Data 8 Manuf 18
+Data 9 Manuf 2
+Data 10 Manuf 18
+Data 11 Manuf f
+Data 12 Manuf ff
+Data 13 Manuf 59
+Data 14 Manuf 0
+Data 15 Manuf 0
+Data 16 Manuf 11
+Data 17 Manuf 0
+Data 18 Manuf b0
+Data 19 Manuf 42
+Data 20 Manuf 0
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+<info> app: Channel energy report:
+--------------
+
+<debug> app: 00-04:  -99  -99  -98  -98  -98
+<debug> app: 05-09:  -98  -97  -98  -98  -98
+<debug> app: 10-14:  -98  -98  -98  -98  -97
+<debug> app: 15-19:  -97  -97  -98  -98  -98
+<debug> app: 20-24:  -99  -99 -100 -100  -99
+<debug> app: 25-29:  -99  -99  -99  -99  -99
+<debug> app: 30-34: -100 -100 -100 -100 -100
+<debug> app: 35-39: -100 -101  -99  -98  -99
+<debug> app: Top Best Clean Channel Index:
+<debug> app: 36 35 34 31 33
+<debug> app: 32 23 30 22 39
+<debug> app: 25 24 21 37 28
+<debug> app: 01 20 00 27 29
+<debug> app: 26 19 11 18 10
+<debug> app: 09 08 04 02 07
+<debug> app: 38 17 03 05 13
+<debug> app: 12 06
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Data 5 Manuf 61
+Data 6 Manuf 18
+Data 7 Manuf 1
+Data 8 Manuf 18
+Data 9 Manuf 2
+Data 10 Manuf 18
+Data 11 Manuf f
+Data 12 Manuf ff
+Data 13 Manuf 59
+Data 14 Manuf 0
+Data 15 Manuf 0
+Data 16 Manuf 11
+Data 17 Manuf 0
+Data 18 Manuf b0
+Data 19 Manuf 42
+Data 20 Manuf 0
+Data 21 Manuf 0
+Data 22 Manuf 0
+Data 23 Manuf 50
+Data 24 Manuf 40
+My Address a9
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Data 5 Manuf 61
+Data 6 Manuf 18
+Data 7 Manuf 1
+Data 8 Manuf 18
+Data 9 Manuf 2
+Data 10 Manuf 18
+Data 11 Manuf f
+Data 12 Manuf ff
+Data 13 Manuf 59
+Data 14 Manuf 0
+Data 15 Manuf 0
+Data 16 Manuf 11
+Data 17 Manuf 0
+Data 18 Manuf b0
+Data 19 Manuf 42
+Data 20 Manuf 0
+Data 21 Manuf 0
+Data 22 Manuf 0
+Data 23 Manuf 50
+Data 24 Manuf 40
+My Address a9
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
