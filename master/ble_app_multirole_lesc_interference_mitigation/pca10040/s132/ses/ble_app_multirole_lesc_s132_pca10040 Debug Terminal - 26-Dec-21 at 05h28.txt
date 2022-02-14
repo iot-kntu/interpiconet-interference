@@ -1,0 +1,499 @@
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Data 5 Manuf 61
+Data 6 Manuf 18
+Data 7 Manuf 1
+Data 8 Manuf 18
+Data 9 Manuf 2
+Data 10 Manuf 18
+Data 11 Manuf f
+Data 12 Manuf ff
+Data 13 Manuf 59
+Data 14 Manuf 0
+Data 15 Manuf 0
+Data 16 Manuf 11
+Data 17 Manuf 0
+Data 18 Manuf b0
+Data 19 Manuf 42
+Data 20 Manuf 0
+Data 21 Manuf 0
+Data 22 Manuf 0
+Data 23 Manuf 50
+Data 24 Manuf 40
+My Address a9
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Data 5 Manuf 61
+Data 6 Manuf 18
+Data 7 Manuf 1
+Data 8 Manuf 18
+Data 9 Manuf 2
+Data 10 Manuf 18
+Data 11 Manuf f
+Data 12 Manuf ff
+Data 13 Manuf 59
+Data 14 Manuf 0
+Data 15 Manuf 0
+Data 16 Manuf 11
+Data 17 Manuf 0
+Data 18 Manuf b0
+Data 19 Manuf 42
+Data 20 Manuf 0
+Data 21 Manuf 0
+Data 22 Manuf 0
+Data 23 Manuf 50
+Data 24 Manuf 40
+My Address a9
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+My Address a9
+My Address 2 bd
+<info> app: set channel map from 15 ta 19
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Data 5 Manuf 61
+Data 6 Manuf 18
+Data 7 Manuf 1
+Data 8 Manuf 18
+Data 9 Manuf 2
+Data 10 Manuf 18
+Data 11 Manuf f
+Data 12 Manuf ff
+Data 13 Manuf 59
+Data 14 Manuf 0
+Data 15 Manuf 0
+Data 16 Manuf 11
+Data 17 Manuf 0
+Data 18 Manuf b0
+Data 19 Manuf 42
+Data 20 Manuf 0
+Data 21 Manuf 0
+Data 22 Manuf 0
+Data 23 Manuf 50
+Data 24 Manuf 40

@@ -1,0 +1,319 @@
+<info> app_timer: RTC: initialized.
+<debug> ble_scan: Added filter on UUID 180D
+<debug> nrf_ble_lesc: Initialized nrf_crypto.
+<debug> nrf_ble_lesc: Initialized nrf_ble_lesc.
+<debug> nrf_ble_lesc: Generating ECC key pair
+<info> app: Start channel survey
+<info> app: LE Secure Connections example started.
+<debug> ble_scan: Scanning
+<info> app: Scanning
+<info> app: Advertising
+<info> app: Channel energy report:
+--------------
+
+<debug> app: 00-04:  -98  -96  -96  -95  -96
+<debug> app: 05-09:  -95  -96  -95  -95  -95
+<debug> app: 10-14:  -94  -94  -94  -94  -95
+<debug> app: 15-19:  -96  -97  -97  -97  -97
+<debug> app: 20-24:  -98  -98  -98  -99  -97
+<debug> app: 25-29:  -98  -98  -97  -97  -97
+<debug> app: 30-34:  -97  -99  -99  -99  -99
+<debug> app: 35-39: -100 -100  -99  -96 -100
+<debug> app: Top Best Clean Channel Index:
+<debug> app: 36 35 39 31 33
+<debug> app: 32 37 23 34 25
+<debug> app: 21 26 22 20 00
+<debug> app: 17 28 19 29 16
+<debug> app: 18 24 30 27 02
+<debug> app: 01 06 04 15 38
+<debug> app: 07 05 14 09 08
+<debug> app: 03 11
+Adv type is: 3
+Manuf Data is: 0
+Data 0 Manuf 2
+Data 1 Manuf a
+Data 2 Manuf 9
+Data 3 Manuf 9
+Data 4 Manuf 8
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 0
+Data 2a985b54565d206d6d6d497da99f1b5e497d2c9f1a1000000098870201f0000000000
+Adv type is: 11
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 6
+Data 59527a6154565d206d6d6d497da99f1b5e497d2c9f1a1000000098870201f0000000000
+<info> app: Scan response received:
+ 05 09 52 65 7A 61      |.	Reza  
+Adv type is: 3
+Manuf Data is: 0
+Data 0 Manuf 1b
+Data 1 Manuf ff
+Data 2 Manuf 75
+Data 3 Manuf 0
+Data 4 Manuf 42
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 0
+Data 1bff754241808ebc1485cd6966be1485ad7fd01000000000098870201f0000000000
+Adv type is: 11
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 6
+Data 59527a611808ebc1485cd6966be1485ad7fd01000000000098870201f0000000000
+Adv type is: 3
+Manuf Data is: 0
+Data 0 Manuf 1b
+Data 1 Manuf ff
+Data 2 Manuf 75
+Data 3 Manuf 0
+Data 4 Manuf 42
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 0
+Data 1bff754241808ebc1485cd6966be1485ad7fd0100000029eec9098870201f0000000000
+Adv type is: 11
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 6
+Data 59527a611808ebc1485cd6966be1485ad7fd0100000029eec9098870201f0000000000
+Adv type is: 3
+Manuf Data is: 0
+Data 0 Manuf 1b
+Data 1 Manuf ff
+Data 2 Manuf 75
+Data 3 Manuf 0
+Data 4 Manuf 42
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 0
+Data 1bff754241808ebc1485cd6966be1485ad7fd0100000029eec9098870201f0000000000
+Adv type is: 11
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 6
+Data 59527a611808ebc1485cd6966be1485ad7fd0100000029eec9098870201f0000000000
+Adv type is: 3
+Manuf Data is: 0
+Data 0 Manuf 1b
+Data 1 Manuf ff
+Data 2 Manuf 75
+Data 3 Manuf 0
+Data 4 Manuf 42
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 0
+Data 1bff754241808ebc1485cd6966be1485ad7fd0100000029eec9098870201f0000000000
+Adv type is: 11
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 6
+Data 59527a611808ebc1485cd6966be1485ad7fd0100000029eec9098870201f0000000000
+Adv type is: 3
+Manuf Data is: 0
+Data 0 Manuf 2
+Data 1 Manuf a
+Data 2 Manuf 9
+Data 3 Manuf 9
+Data 4 Manuf 8
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 0
+Data 2a985b54565d206d6d6d497da99f1b5e497d2c9f1a1000000098870201f0000000000
+Adv type is: 11
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 6
+Data 59527a6154565d206d6d6d497da99f1b5e497d2c9f1a1000000098870201f0000000000
+ 05 09 52 65 7A 61      |.	Reza  
+Adv type is: 3
+Manuf Data is: 0
+Data 0 Manuf 2
+Data 1 Manuf a
+Data 2 Manuf 9
+Data 3 Manuf 9
+Data 4 Manuf 8
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 0
+Data 2a985b54565d206d6d6d497da99f1b5e497d2c9f1a1000000098870201f0000000000
+Adv type is: 11
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 6
+Data 59527a6154565d206d6d6d497da99f1b5e497d2c9f1a1000000098870201f0000000000
+Adv type is: 3
+Manuf Data is: 0
+Data 0 Manuf 10
+Data 1 Manuf 9
+Data 2 Manuf 4d
+Data 3 Manuf 69
+Data 4 Manuf 20
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 0
+Data 1094d20536d6172742042616e64203432e0feffffff2f439d529eec9098870201f0000000000
+Adv type is: 11
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 6
+Data 59527a616d6172742042616e64203432e0feffffff2f439d529eec9098870201f0000000000
+Adv type is: 3
+Manuf Data is: 0
+Data 0 Manuf 1b
+Data 1 Manuf ff
+Data 2 Manuf 75
+Data 3 Manuf 0
+Data 4 Manuf 42
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 0
+Data 1bff754241808ebc1485cd6966be1485ad7fd01000000000098870201f0000000000
+Adv type is: 11
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 6
+Data 59527a611808ebc1485cd6966be1485ad7fd01000000000098870201f0000000000
+Adv type is: 3
+Manuf Data is: 0
+Data 0 Manuf 2
+Data 1 Manuf 1
+Data 2 Manuf 1e
+Data 3 Manuf 1b
+Data 4 Manuf ff
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 0
+Data 211eff7504241404e5c497da99f1b5e497d2c9f1a1000000098870201f0000000000
+Adv type is: 11
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 6
+Data 59527a6104241404e5c497da99f1b5e497d2c9f1a1000000098870201f0000000000
+Adv type is: 3
+Manuf Data is: 0
+Data 0 Manuf 10
+Data 1 Manuf 9
+Data 2 Manuf 4d
+Data 3 Manuf 69
+Data 4 Manuf 20
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 0
+Data 1094d20536d6172742042616e64203432e0feffffff2f439d529eec9098870201f0000000000
+Adv type is: 11
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 6
+Data 59527a616d6172742042616e64203432e0feffffff2f439d529eec9098870201f0000000000
+Adv type is: 3
+Manuf Data is: 0
+Data 0 Manuf 1b
+Data 1 Manuf ff
+Data 2 Manuf 75
+Data 3 Manuf 0
+Data 4 Manuf 42
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 0
+Data 1bff754241808ebc1485cd6966be1485ad7fd0100000029eec9098870201f0000000000
+Adv type is: 11
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 6
+Data 59527a611808ebc1485cd6966be1485ad7fd0100000029eec9098870201f0000000000
+Adv type is: 3
+Manuf Data is: 0
+Data 0 Manuf 1b
+Data 1 Manuf ff
+Data 2 Manuf 75
+Data 3 Manuf 0
+Data 4 Manuf 42
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 0
+Data 1bff754241808ebc1485cd6966be1485ad7fd01000000000098870201f0000000000
+Adv type is: 11
+Manuf Data is: 0
+Data 0 Manuf 5
+Data 1 Manuf 9
+Data 2 Manuf 52
+Data 3 Manuf 65
+Data 4 Manuf 7a
+Address 85a0dda6c584
+kolle data: 20008798
+Data Length 6
+Data 59527a611808ebc1485cd6966be1485ad7fd01000000000098870201f0000000000

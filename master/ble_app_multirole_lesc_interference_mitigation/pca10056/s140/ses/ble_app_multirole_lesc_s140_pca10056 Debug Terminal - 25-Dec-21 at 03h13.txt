@@ -1,0 +1,422 @@
+<info> app_timer: RTC: initialized.
+<debug> ble_scan: Added filter on UUID 180D
+Adv type is: 3
+Adv type is: b
+<debug> nrf_ble_lesc: Initialized nrf_crypto.
+<debug> nrf_ble_lesc: Initialized nrf_ble_lesc.
+<debug> nrf_ble_lesc: Generating ECC key pair
+<info> app: Start channel survey
+<info> app: LE Secure Connections example started.
+<debug> ble_scan: Scanning
+<info> app: Scanning
+<info> app: Advertising
+<info> app: Advertising packet received:
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 3
+<info> app: Advertising packet received:
+ 02 01 1A 03 03 69 FD 11|.....i..
+ 16 69 FD 00 2D 5C 46 2A|.i..-\F*
+ 18 B1 E8 01 8D C1 27 AF|......'.
+ 52                     |R       
+Adv type is: 0
+<info> app: Advertising packet received:
+ 1B FF 75 00 42 04 01 80|..u.B...
+ 8E BC 14 85 CD 69 66 BE|.....if.
+ 14 85 AD 7F D0 01 00 00|........
+ 00 00 00 00            |....    
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 06 1B FF 57 01 02|.....W..
+ FF FF FF FF FF FF FF FF|........
+ FF FF FF FF FF FF FF FF|........
+ 02 F4 39 D5 29 EE C9   |..9.).. 
+<info> app: Scan response received:
+ 10 09 4D 69 20 53 6D 61|.	Mi Sma
+ 72 74 20 42 61 6E 64 20|rt Band 
+ 34 03 02 E0 FE         |4....   
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 0
+<info> app: Advertising packet received:
+ 1B FF 75 00 42 04 01 80|..u.B...
+ 8E BC 14 85 CD 69 66 BE|.....if.
+ 14 85 AD 7F D0 01 00 00|........
+ 00 00 00 00            |....    
+Adv type is: 0
+<info> app: Advertising packet received:
+ 1B FF 75 00 42 04 01 80|..u.B...
+ 8E BC 14 85 CD 69 66 BE|.....if.
+ 14 85 AD 7F D0 01 00 00|........
+ 00 00 00 00            |....    
+<info> app: Channel energy report:
+--------------
+
+<debug> app: 00-04:  -99  -99  -98  -98  -98
+<debug> app: 05-09:  -98  -97  -97  -98  -98
+<debug> app: 10-14:  -98  -98  -98  -97  -97
+<debug> app: 15-19:  -97  -97  -97  -97  -96
+<debug> app: 20-24:  -98  -98  -96  -98  -98
+<debug> app: 25-29:  -98  -98  -96  -96  -96
+<debug> app: 30-34:  -98  -99  -99 -100 -100
+<debug> app: 35-39: -100  -99  -97  -99  -99
+<debug> app: Top Best Clean Channel Index:
+<debug> app: 34 35 33 31 32
+<debug> app: 36 39 00 38 01
+<debug> app: 26 21 25 10 04
+<debug> app: 03 30 20 02 05
+<debug> app: 08 12 23 09 11
+<debug> app: 24 13 37 15 18
+<debug> app: 07 17 14 16 06
+<debug> app: 28 27
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1A 03 03 69 FD 11|.....i..
+ 16 69 FD 00 2D 5C 46 2A|.i..-\F*
+ 18 B1 E8 01 8D C1 27 AF|......'.
+ 52                     |R       
+<info> app: Empty scan response received.
+Adv type is: 0
+<info> app: Advertising packet received:
+ 1B FF 75 00 42 04 01 80|..u.B...
+ 8E BC 14 85 CD 69 66 BE|.....if.
+ 14 85 AD 7F D0 01 00 00|........
+ 00 00 00 00            |....    
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 06 1B FF 57 01 02|.....W..
+ FF FF FF FF FF FF FF FF|........
+ FF FF FF FF FF FF FF FF|........
+ 02 F4 39 D5 29 EE C9   |..9.).. 
+<info> app: Scan response received:
+ 10 09 4D 69 20 53 6D 61|.	Mi Sma
+ 72 74 20 42 61 6E 64 20|rt Band 
+ 34 03 02 E0 FE         |4....   
+Adv type is: 0
+<info> app: Advertising packet received:
+ 1B FF 75 00 42 04 01 80|..u.B...
+ 8E BC 14 85 CD 69 66 BE|.....if.
+ 14 85 AD 7F D0 01 00 00|........
+ 00 00 00 00            |....    
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 0
+<info> app: Advertising packet received:
+ 1B FF 75 00 42 04 01 80|..u.B...
+ 8E BC 14 85 CD 69 66 BE|.....if.
+ 14 85 AD 7F D0 01 00 00|........
+ 00 00 00 00            |....    
+Adv type is: 3
+<info> app: Advertising packet received:
+ 02 01 06 05 03 33 55 22|.....3U"
+ 22 15 09 48 61 79 6C 6F|".	Haylo
+ 75 20 53 6D 61 72 74 20|u Smart 
+ 57 61 74 63 68 20 32   |Watch 2 
+Adv type is: 0
+<info> app: Advertising packet received:
+ 1B FF 75 00 42 04 01 80|..u.B...
+ 8E BC 14 85 CD 69 66 BE|.....if.
+ 14 85 AD 7F D0 01 00 00|........
+ 00 00 00 00            |....    
+Adv type is: 0
+<info> app: Advertising packet received:
+ 1B FF 75 00 42 04 01 80|..u.B...
+ 8E BC 14 85 CD 69 66 BE|.....if.
+ 14 85 AD 7F D0 01 00 00|........
+ 00 00 00 00            |....    
+Adv type is: 3
+<info> app: Advertising packet received:
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 0
+<info> app: Advertising packet received:
+ 1B FF 75 00 42 04 01 80|..u.B...
+ 8E BC 14 85 CD 69 66 BE|.....if.
+ 14 85 AD 7F D0 01 00 00|........
+ 00 00 00 00            |....    
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 06 05 03 33 55 22|.....3U"
+ 22 15 09 48 61 79 6C 6F|".	Haylo
+ 75 20 53 6D 61 72 74 20|u Smart 
+ 57 61 74 63 68 20 32   |Watch 2 
+<info> app: Scan response received:
+ 0F FF 4C 53 3C 02 02 6B|..LS<..k
+ 00 3A 78 02 B7 27 0D 53|.:x..'.S
+Adv type is: 3
+Adv type is: b
+<info> app: Advertising packet received:
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 0
+<info> app: Advertising packet received:
+ 1B FF 75 00 42 04 01 80|..u.B...
+ 8E BC 14 85 CD 69 66 BE|.....if.
+ 14 85 AD 7F D0 01 00 00|........
+ 00 00 00 00            |....    
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 0
+<info> app: Advertising packet received:
+ 1B FF 75 00 42 04 01 80|..u.B...
+ 8E BC 14 85 CD 69 66 BE|.....if.
+ 14 85 AD 7F D0 01 00 00|........
+ 00 00 00 00            |....    
+Adv type is: 3
+Adv type is: b
+<info> app: Advertising packet received:
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 3
+<info> app: Advertising packet received:
+ 02 01 1A 02 0A 0C 0A FF|........
+ 4C 00 10 05 51 18 10 D1|L...Q...
+ 1B                     |.       
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+Adv type is: 0
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+<info> app: Advertising packet received:
+ 1B FF 75 00 42 04 01 80|..u.B...
+ 8E BC 14 85 CD 69 66 BE|.....if.
+ 14 85 AD 7F D0 01 00 00|........
+ 00 00 00 00            |....    
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 0
+<info> app: Advertising packet received:
+ 1B FF 75 00 42 04 01 80|..u.B...
+ 8E BC 14 85 CD 69 66 BE|.....if.
+ 14 85 AD 7F D0 01 00 00|........
+ 00 00 00 00            |....    
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 06 1B FF 57 01 02|.....W..
+ FF FF FF FF FF FF FF FF|........
+ FF FF FF FF FF FF FF FF|........
+ 02 F4 39 D5 29 EE C9   |..9.).. 
+<info> app: Scan response received:
+ 10 09 4D 69 20 53 6D 61|.	Mi Sma
+ 72 74 20 42 61 6E 64 20|rt Band 
+ 34 03 02 E0 FE         |4....   
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 0
+<info> app: Advertising packet received:
+ 1B FF 75 00 42 04 01 80|..u.B...
+ 8E BC 14 85 CD 69 66 BE|.....if.
+ 14 85 AD 7F D0 01 00 00|........
+ 00 00 00 00            |....    
+Adv type is: 3
+<info> app: Advertising packet received:
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 0
+<info> app: Advertising packet received:
+ 1B FF 75 00 42 04 01 80|..u.B...
+ 8E BC 14 85 CD 69 66 BE|.....if.
+ 14 85 AD 7F D0 01 00 00|........
+ 00 00 00 00            |....    
+Adv type is: 3
+Adv type is: b
+<info> app: Advertising packet received:
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 3
+<info> app: Advertising packet received:
+Adv type is: b
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   
+Adv type is: 3
+<info> app: Advertising packet received:
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+Adv type is: 0
+<info> app: Advertising packet received:
+Adv type is: 3
+Adv type is: b
+ 1B FF 75 00 42 04 01 80|..u.B...
+ 8E BC 14 85 CD 69 66 BE|.....if.
+ 14 85 AD 7F D0 01 00 00|........
+ 00 00 00 00            |....    
+<info> app: Advertising packet received:
+ 02 01 1E 1B FF 75 00 42|.....u.B
+ 04 01 40 4E 5C 49 7D A9|..@N\I}.
+ 9F 1B 5E 49 7D 2C 9F 1A|..^I},..
+ 01 00 00 00 00 00 00   |....... 
+<info> app: Scan response received:
+ 02 0A 09 09 08 5B 54 56|..		.[TV
+ 5D 20 6D 6D 6D         |] mmm   

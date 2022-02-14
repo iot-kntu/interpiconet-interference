@@ -1,0 +1,154 @@
+<info> app_timer: RTC: initialized.
+<debug> ble_scan: Added filter on UUID 180D
+<debug> nrf_ble_lesc: Initialized nrf_crypto.
+<debug> nrf_ble_lesc: Initialized nrf_ble_lesc.
+<debug> nrf_ble_lesc: Generating ECC key pair
+<info> app: Start channel survey
+<info> app: LE Secure Connections example started.
+<debug> ble_scan: Scanning
+<info> app: Scanning
+<info> app: Advertising
+My Address c7b9a902f287b00d01012003fda0
+My Address c7b9a902f287b00d01012003fda0
+My Address c7b9a902f287b00d01012003fda0
+My Address c7b9a902f287b00d01012003fda0
+My Address c7b9a902f287b00d01012003fda0
+My Address c7b9a902f287b00d01012003fda0
+My Address c7b9a902f287b00d01012003fda0
+My Address c7b9a902f287b00d01012003fda0
+My Address c7b9a902f287b00d01012003fda0
+My Address c7b9a902f287b00d01012003fda0
+My Address c7b9a902f287b00d01012003fda0
+My Address c7b9a902f287b00d01012003fda0
+My Address c7b9a902f287b00d01012003fda0
+<info> app: Channel energy report:
+--------------
+
+<debug> app: 00-04:  -99 -100  -99  -99  -99
+<debug> app: 05-09:  -98  -98  -99  -99  -98
+<debug> app: 10-14:  -98  -98  -98  -97  -96
+<debug> app: 15-19:  -97  -97  -97  -97  -98
+<debug> app: 20-24:  -99 -100 -100 -101 -100
+<debug> app: 25-29: -100  -99  -99 -100  -99
+<debug> app: 30-34:  -99 -100 -100 -101 -101
+<debug> app: 35-39: -101 -101 -100  -98 -101
+<debug> app: Top Best Clean Channel Index:
+<debug> app: 33 36 34 35 23
+<debug> app: 39 32 24 31 22
+<debug> app: 21 28 25 37 01
+<debug> app: 27 30 26 08 00
+<debug> app: 02 07 20 29 03
+<debug> app: 04 05 06 09 11
+<debug> app: 12 10 38 19 18
+<debug> app: 16 17
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0
+My Address c7b9a902f287b00d3010e13d9d42003fda0

@@ -1,0 +1,339 @@
+p_ble_evt                                                         0x2003fe3c                             r4                   48    const ble_evt_t*               
+    *                                                             <struct>                               0x2003fe3c           48    struct                         
+        header                                                    <struct>                               0x2003fe3c           4     struct                         
+            evt_id                                                0x0010                                 0x2003fe3c           2     short unsigned int             
+            evt_len                                               0x002c                                 0x2003fe3e           2     short unsigned int             
+        evt                                                       <union>                                0x2003fe40           44    union                          
+            common_evt                                            <struct>                               0x2003fe40           16    struct                         
+                conn_handle                                       0x0000                                 0x2003fe40           2     short unsigned int             
+                params                                            <union>                                0x2003fe44           12    union                          
+                    user_mem_request                              <struct>                               0x2003fe44           1     struct                         
+                        type                                      0x04                                   0x2003fe44           1     unsigned char                  
+                    user_mem_release                              <struct>                               0x2003fe44           12    struct                         
+                        type                                      0x04                                   0x2003fe44           1     unsigned char                  
+                        mem_block                                 <struct>                               0x2003fe48           8     struct                         
+                            p_mem                                 0x027ff76f                             0x2003fe48           4     uint8_t*                       
+                            len                                   0x0018                                 0x2003fe4c           2     short unsigned int             
+            gap_evt                                               <struct>                               0x2003fe40           44    struct                         
+                conn_handle                                       0x0000                                 0x2003fe40           2     short unsigned int             
+                params                                            <union>                                0x2003fe44           40    union                          
+                    connected                                     <struct>                               0x2003fe44           36    struct                         
+                        peer_addr                                 <struct>                               0x2003fe44           7     struct                         
+                            addr_id_peer                          0x00                                   0x2003fe44 <0-0>     1     uint8_t                        
+                            addr_type                             0x02                                   0x2003fe44 <1-7>     1     uint8_t                        
+                            addr                                  "\333\215\352o\367"                    0x2003fe45           6     uint8_t[6]                     
+                        role                                      0x02                                   0x2003fe4b           1     unsigned char                  
+                        conn_params                               <struct>                               0x2003fe4c           8     struct                         
+                            min_conn_interval                     0x0018                                 0x2003fe4c           2     short unsigned int             
+                            max_conn_interval                     0x0018                                 0x2003fe4e           2     short unsigned int             
+                            slave_latency                         0x0000                                 0x2003fe50           2     short unsigned int             
+                            conn_sup_timeout                      0x0032                                 0x2003fe52           2     short unsigned int             
+                        adv_handle                                0xff                                   0x2003fe54           1     unsigned char                  
+                        adv_data                                  <struct>                               0x2003fe58           16    struct                         
+                            adv_data                              <struct>                               0x2003fe58           8     struct                         
+                                p_data                            0x00000000                             0x2003fe58           4     uint8_t*                       
+                                len                               0x0000                                 0x2003fe5c           2     short unsigned int             
+                            scan_rsp_data                         <struct>                               0x2003fe60           8     struct                         
+                                p_data                            0x00000000                             0x2003fe60           4     uint8_t*                       
+                                len                               0x0000                                 0x2003fe64           2     short unsigned int             
+                    disconnected                                  <struct>                               0x2003fe44           1     struct                         
+                        reason                                    0x04                                   0x2003fe44           1     unsigned char                  
+                    conn_param_update                             <struct>                               0x2003fe44           8     struct                         
+                        conn_params                               <struct>                               0x2003fe44           8     struct                         
+                            min_conn_interval                     0xdb04                                 0x2003fe44           2     short unsigned int             
+                            max_conn_interval                     0xea8d                                 0x2003fe46           2     short unsigned int             
+                            slave_latency                         0xf76f                                 0x2003fe48           2     short unsigned int             
+                            conn_sup_timeout                      0x027f                                 0x2003fe4a           2     short unsigned int             
+                    sec_params_request                            <struct>                               0x2003fe44           5     struct                         
+                        peer_params                               <struct>                               0x2003fe44           5     struct                         
+                            bond                                  0x00                                   0x2003fe44 <0-0>     1     uint8_t                        
+                            mitm                                  0x00                                   0x2003fe44 <1-1>     1     uint8_t                        
+                            lesc                                  0x01                                   0x2003fe44 <2-2>     1     uint8_t                        
+                            keypress                              0x00                                   0x2003fe44 <3-3>     1     uint8_t                        
+                            io_caps                               0x00                                   0x2003fe44 <4-6>     1     uint8_t                        
+                            oob                                   0x00                                   0x2003fe44 <7-7>     1     uint8_t                        
+                            min_key_size                          0xdb                                   0x2003fe45           1     unsigned char                  
+                            max_key_size                          0x8d                                   0x2003fe46           1     unsigned char                  
+                            kdist_own                             <struct>                               0x2003fe47           1     struct                         
+                                enc                               0x00                                   0x2003fe47 <0-0>     1     uint8_t                        
+                                id                                0x01                                   0x2003fe47 <1-1>     1     uint8_t                        
+                                sign                              0x00                                   0x2003fe47 <2-2>     1     uint8_t                        
+                                link                              0x01                                   0x2003fe47 <3-3>     1     uint8_t                        
+                            kdist_peer                            <struct>                               0x2003fe48           1     struct                         
+                                enc                               0x01                                   0x2003fe48 <0-0>     1     uint8_t                        
+                                id                                0x01                                   0x2003fe48 <1-1>     1     uint8_t                        
+                                sign                              0x01                                   0x2003fe48 <2-2>     1     uint8_t                        
+                                link                              0x01                                   0x2003fe48 <3-3>     1     uint8_t                        
+                    sec_info_request                              <struct>                               0x2003fe44           20    struct                         
+                        peer_addr                                 <struct>                               0x2003fe44           7     struct                         
+                            addr_id_peer                          0x00                                   0x2003fe44 <0-0>     1     uint8_t                        
+                            addr_type                             0x02                                   0x2003fe44 <1-7>     1     uint8_t                        
+                            addr                                  "\333\215\352o\367"                    0x2003fe45           6     uint8_t[6]                     
+                        master_id                                 <struct>                               0x2003fe4c           10    struct                         
+                            ediv                                  0x0018                                 0x2003fe4c           2     short unsigned int             
+                            rand                                  "\030"                                 0x2003fe4e           8     uint8_t[8]                     
+                        enc_info                                  0x01                                   0x2003fe56 <0-0>     1     uint8_t                        
+                        id_info                                   0x00                                   0x2003fe56 <1-1>     1     uint8_t                        
+                        sign_info                                 0x00                                   0x2003fe56 <2-2>     1     uint8_t                        
+                    passkey_display                               <struct>                               0x2003fe44           7     struct                         
+                        passkey                                   "\004\333\215\352o"                    0x2003fe44           6     uint8_t[6]                     
+                        match_request                             0x01                                   0x2003fe4a <0-0>     1     uint8_t                        
+                    key_pressed                                   <struct>                               0x2003fe44           1     struct                         
+                        kp_not                                    0x04                                   0x2003fe44           1     unsigned char                  
+                    auth_key_request                              <struct>                               0x2003fe44           1     struct                         
+                        key_type                                  0x04                                   0x2003fe44           1     unsigned char                  
+                    lesc_dhkey_request                            <struct>                               0x2003fe44           8     struct                         
+                        p_pk_peer                                 0xea8ddb04                             0x2003fe44           4     ble_gap_lesc_p256_pk_t*        
+                        oobd_req                                  0x01                                   0x2003fe48 <0-0>     1     uint8_t                        
+                    auth_status                                   <struct>                               0x2003fe44           6     struct                         
+                        auth_status                               0x04                                   0x2003fe44           1     unsigned char                  
+                        error_src                                 0x03                                   0x2003fe45 <0-1>     1     uint8_t                        
+                        bonded                                    0x00                                   0x2003fe45 <2-2>     1     uint8_t                        
+                        lesc                                      0x01                                   0x2003fe45 <3-3>     1     uint8_t                        
+                        sm1_levels                                <struct>                               0x2003fe46           1     struct                         
+                            lv1                                   0x01                                   0x2003fe46 <0-0>     1     uint8_t                        
+                            lv2                                   0x00                                   0x2003fe46 <1-1>     1     uint8_t                        
+                            lv3                                   0x01                                   0x2003fe46 <2-2>     1     uint8_t                        
+                            lv4                                   0x01                                   0x2003fe46 <3-3>     1     uint8_t                        
+                        sm2_levels                                <struct>                               0x2003fe47           1     struct                         
+                            lv1                                   0x00                                   0x2003fe47 <0-0>     1     uint8_t                        
+                            lv2                                   0x01                                   0x2003fe47 <1-1>     1     uint8_t                        
+                            lv3                                   0x00                                   0x2003fe47 <2-2>     1     uint8_t                        
+                            lv4                                   0x01                                   0x2003fe47 <3-3>     1     uint8_t                        
+                        kdist_own                                 <struct>                               0x2003fe48           1     struct                         
+                            enc                                   0x01                                   0x2003fe48 <0-0>     1     uint8_t                        
+                            id                                    0x01                                   0x2003fe48 <1-1>     1     uint8_t                        
+                            sign                                  0x01                                   0x2003fe48 <2-2>     1     uint8_t                        
+                            link                                  0x01                                   0x2003fe48 <3-3>     1     uint8_t                        
+                        kdist_peer                                <struct>                               0x2003fe49           1     struct                         
+                            enc                                   0x01                                   0x2003fe49 <0-0>     1     uint8_t                        
+                            id                                    0x01                                   0x2003fe49 <1-1>     1     uint8_t                        
+                            sign                                  0x01                                   0x2003fe49 <2-2>     1     uint8_t                        
+                            link                                  0x00                                   0x2003fe49 <3-3>     1     uint8_t                        
+                    conn_sec_update                               <struct>                               0x2003fe44           2     struct                         
+                        conn_sec                                  <struct>                               0x2003fe44           2     struct                         
+                            sec_mode                              <struct>                               0x2003fe44           1     struct                         
+                                sm                                0x04                                   0x2003fe44 <0-3>     1     uint8_t                        
+                                lv                                0x00                                   0x2003fe44 <4-7>     1     uint8_t                        
+                            encr_key_size                         0xdb                                   0x2003fe45           1     unsigned char                  
+                    timeout                                       <struct>                               0x2003fe44           12    struct                         
+                        src                                       0x04                                   0x2003fe44           1     unsigned char                  
+                        params                                    <union>                                0x2003fe48           8     union                          
+                            adv_report_buffer                     <struct>                               0x2003fe48           8     struct                         
+                                p_data                            0x027ff76f                             0x2003fe48           4     uint8_t*                       
+                                len                               0x0018                                 0x2003fe4c           2     short unsigned int             
+                    rssi_changed                                  <struct>                               0x2003fe44           2     struct                         
+                        rssi                                      0x04                                   0x2003fe44           1     signed char                    
+                        ch_index                                  0xdb                                   0x2003fe45           1     unsigned char                  
+                    adv_report                                    <struct>                               0x2003fe44           36    struct                         
+                        type                                      <struct>                               0x2003fe44           2     struct                         
+                            connectable                           0x0000                                 0x2003fe44 <0-0>     2     uint16_t                       
+                            scannable                             0x0000                                 0x2003fe44 <1-1>     2     uint16_t                       
+                            directed                              0x0001                                 0x2003fe44 <2-2>     2     uint16_t                       
+                            scan_response                         0x0000                                 0x2003fe44 <3-3>     2     uint16_t                       
+                            extended_pdu                          0x0000                                 0x2003fe44 <4-4>     2     uint16_t                       
+                            status                                0x0000                                 0x2003fe44 <5-6>     2     uint16_t                       
+                            reserved                              0x01b6                                 0x2003fe44 <7-15>    2     uint16_t                       
+                        peer_addr                                 <struct>                               0x2003fe46           7     struct                         
+                            addr_id_peer                          0x01                                   0x2003fe46 <0-0>     1     uint8_t                        
+                            addr_type                             0x46                                   0x2003fe46 <1-7>     1     uint8_t                        
+                            addr                                  "\352o\367\177\002"                    0x2003fe47           6     uint8_t[6]                     
+                        direct_addr                               <struct>                               0x2003fe4d           7     struct                         
+                            addr_id_peer                          0x00                                   0x2003fe4d <0-0>     1     uint8_t                        
+                            addr_type                             0x00                                   0x2003fe4d <1-7>     1     uint8_t                        
+                            addr                                  "\030"                                 0x2003fe4e           6     uint8_t[6]                     
+                        primary_phy                               0xff                                   0x2003fe54           1     unsigned char                  
+                        secondary_phy                             0x4c                                   0x2003fe55           1     unsigned char                  
+                        tx_power                                  0x01                                   0x2003fe56           1     signed char                    
+                        rssi                                      0x00                                   0x2003fe57           1     signed char                    
+                        ch_index                                  0x00                                   0x2003fe58           1     unsigned char                  
+                        set_id                                    0x00                                   0x2003fe59           1     unsigned char                  
+                        data_id                                   0x0000                                 0x2003fe5a <0-11>    2     uint16_t                       
+                        data                                      <struct>                               0x2003fe5c           8     struct                         
+                            p_data                                0x00000000                             0x2003fe5c           4     uint8_t*                       
+                            len                                   0x0000                                 0x2003fe60           2     short unsigned int             
+                        aux_pointer                               <struct>                               0x2003fe64           4     struct                         
+                            aux_offset                            0x0000                                 0x2003fe64           2     short unsigned int             
+                            aux_phy                               0x00                                   0x2003fe66           1     unsigned char                  
+                    adv_set_terminated                            <struct>                               0x2003fe44           20    struct                         
+                        reason                                    0x04                                   0x2003fe44           1     unsigned char                  
+                        adv_handle                                0xdb                                   0x2003fe45           1     unsigned char                  
+                        num_completed_adv_events                  0x8d                                   0x2003fe46           1     unsigned char                  
+                        adv_data                                  <struct>                               0x2003fe48           16    struct                         
+                            adv_data                              <struct>                               0x2003fe48           8     struct                         
+                                p_data                            0x027ff76f                             0x2003fe48           4     uint8_t*                       
+                                len                               0x0018                                 0x2003fe4c           2     short unsigned int             
+                            scan_rsp_data                         <struct>                               0x2003fe50           8     struct                         
+                                p_data                            0x00320000                             0x2003fe50           4     uint8_t*                       
+                                len                               0x4cff                                 0x2003fe54           2     short unsigned int             
+                    sec_request                                   <struct>                               0x2003fe44           1     struct                         
+                        bond                                      0x00                                   0x2003fe44 <0-0>     1     uint8_t                        
+                        mitm                                      0x00                                   0x2003fe44 <1-1>     1     uint8_t                        
+                        lesc                                      0x01                                   0x2003fe44 <2-2>     1     uint8_t                        
+                        keypress                                  0x00                                   0x2003fe44 <3-3>     1     uint8_t                        
+                    conn_param_update_request                     <struct>                               0x2003fe44           8     struct                         
+                        conn_params                               <struct>                               0x2003fe44           8     struct                         
+                            min_conn_interval                     0xdb04                                 0x2003fe44           2     short unsigned int             
+                            max_conn_interval                     0xea8d                                 0x2003fe46           2     short unsigned int             
+                            slave_latency                         0xf76f                                 0x2003fe48           2     short unsigned int             
+                            conn_sup_timeout                      0x027f                                 0x2003fe4a           2     short unsigned int             
+                    scan_req_report                               <struct>                               0x2003fe44           9     struct                         
+                        adv_handle                                0x04                                   0x2003fe44           1     unsigned char                  
+                        rssi                                      0xdb                                   0x2003fe45           1     signed char                    
+                        peer_addr                                 <struct>                               0x2003fe46           7     struct                         
+                            addr_id_peer                          0x01                                   0x2003fe46 <0-0>     1     uint8_t                        
+                            addr_type                             0x46                                   0x2003fe46 <1-7>     1     uint8_t                        
+                            addr                                  "\352o\367\177\002"                    0x2003fe47           6     uint8_t[6]                     
+                    phy_update_request                            <struct>                               0x2003fe44           2     struct                         
+                        peer_preferred_phys                       <struct>                               0x2003fe44           2     struct                         
+                            tx_phys                               0x04                                   0x2003fe44           1     unsigned char                  
+                            rx_phys                               0xdb                                   0x2003fe45           1     unsigned char                  
+                    phy_update                                    <struct>                               0x2003fe44           3     struct                         
+                        status                                    0x04                                   0x2003fe44           1     unsigned char                  
+                        tx_phy                                    0xdb                                   0x2003fe45           1     unsigned char                  
+                        rx_phy                                    0x8d                                   0x2003fe46           1     unsigned char                  
+                    data_length_update_request                    <struct>                               0x2003fe44           8     struct                         
+                        peer_params                               <struct>                               0x2003fe44           8     struct                         
+                            max_tx_octets                         0xdb04                                 0x2003fe44           2     short unsigned int             
+                            max_rx_octets                         0xea8d                                 0x2003fe46           2     short unsigned int             
+                            max_tx_time_us                        0xf76f                                 0x2003fe48           2     short unsigned int             
+                            max_rx_time_us                        0x027f                                 0x2003fe4a           2     short unsigned int             
+                    data_length_update                            <struct>                               0x2003fe44           8     struct                         
+                        effective_params                          <struct>                               0x2003fe44           8     struct                         
+                            max_tx_octets                         0xdb04                                 0x2003fe44           2     short unsigned int             
+                            max_rx_octets                         0xea8d                                 0x2003fe46           2     short unsigned int             
+                            max_tx_time_us                        0xf76f                                 0x2003fe48           2     short unsigned int             
+                            max_rx_time_us                        0x027f                                 0x2003fe4a           2     short unsigned int             
+                    qos_channel_survey_report                     <struct>                               0x2003fe44           40    struct                         
+                        channel_energy                            "\004\333\215\352o\367\177\002\030"    0x2003fe44           40    int8_t[40]                     
+            gattc_evt                                             <struct>                               0x2003fe40           28    struct                         
+                conn_handle                                       0x0000                                 0x2003fe40           2     short unsigned int             
+                gatt_status                                       0x2000                                 0x2003fe42           2     short unsigned int             
+                error_handle                                      0xdb04                                 0x2003fe44           2     short unsigned int             
+                params                                            <union>                                0x2003fe46           22    union                          
+                    prim_srvc_disc_rsp                            <struct>                               0x2003fe46           10    struct                         
+                        count                                     0xea8d                                 0x2003fe46           2     short unsigned int             
+                        services                                  <array>                                0x2003fe48           8     ble_gattc_service_t[1]         
+                    rel_disc_rsp                                  <struct>                               0x2003fe46           12    struct                         
+                        count                                     0xea8d                                 0x2003fe46           2     short unsigned int             
+                        includes                                  <array>                                0x2003fe48           10    ble_gattc_include_t[1]         
+                    char_disc_rsp                                 <struct>                               0x2003fe46           12    struct                         
+                        count                                     0xea8d                                 0x2003fe46           2     short unsigned int             
+                        chars                                     <array>                                0x2003fe48           10    ble_gattc_char_t[1]            
+                    desc_disc_rsp                                 <struct>                               0x2003fe46           8     struct                         
+                        count                                     0xea8d                                 0x2003fe46           2     short unsigned int             
+                        descs                                     <array>                                0x2003fe48           6     ble_gattc_desc_t[1]            
+                    char_val_by_uuid_read_rsp                     <struct>                               0x2003fe46           6     struct                         
+                        count                                     0xea8d                                 0x2003fe46           2     short unsigned int             
+                        value_len                                 0xf76f                                 0x2003fe48           2     short unsigned int             
+                        handle_value                              ""                                     0x2003fe4a           1     uint8_t[1]                     
+                    read_rsp                                      <struct>                               0x2003fe46           8     struct                         
+                        handle                                    0xea8d                                 0x2003fe46           2     short unsigned int             
+                        offset                                    0xf76f                                 0x2003fe48           2     short unsigned int             
+                        len                                       0x027f                                 0x2003fe4a           2     short unsigned int             
+                        data                                      ""                                     0x2003fe4c           1     uint8_t[1]                     
+                    char_vals_read_rsp                            <struct>                               0x2003fe46           4     struct                         
+                        len                                       0xea8d                                 0x2003fe46           2     short unsigned int             
+                        values                                    ""                                     0x2003fe48           1     uint8_t[1]                     
+                    write_rsp                                     <struct>                               0x2003fe46           10    struct                         
+                        handle                                    0xea8d                                 0x2003fe46           2     short unsigned int             
+                        write_op                                  0x6f                                   0x2003fe48           1     unsigned char                  
+                        offset                                    0x027f                                 0x2003fe4a           2     short unsigned int             
+                        len                                       0x0018                                 0x2003fe4c           2     short unsigned int             
+                        data                                      ""                                     0x2003fe4e           1     uint8_t[1]                     
+                    hvx                                           <struct>                               0x2003fe46           8     struct                         
+                        handle                                    0xea8d                                 0x2003fe46           2     short unsigned int             
+                        type                                      0x6f                                   0x2003fe48           1     unsigned char                  
+                        len                                       0x027f                                 0x2003fe4a           2     short unsigned int             
+                        data                                      ""                                     0x2003fe4c           1     uint8_t[1]                     
+                    exchange_mtu_rsp                              <struct>                               0x2003fe46           2     struct                         
+                        server_rx_mtu                             0xea8d                                 0x2003fe46           2     short unsigned int             
+                    timeout                                       <struct>                               0x2003fe46           1     struct                         
+                        src                                       0x8d                                   0x2003fe46           1     unsigned char                  
+                    attr_info_disc_rsp                            <struct>                               0x2003fe46           22    struct                         
+                        count                                     0xea8d                                 0x2003fe46           2     short unsigned int             
+                        format                                    0x6f                                   0x2003fe48           1     unsigned char                  
+                        info                                      <union>                                0x2003fe4a           18    union                          
+                            attr_info16                           <array>                                0x2003fe4a           6     ble_gattc_attr_info16_t[1]     
+                            attr_info128                          <array>                                0x2003fe4a           18    ble_gattc_attr_info128_t[1]    
+                    write_cmd_tx_complete                         <struct>                               0x2003fe46           1     struct                         
+                        count                                     0x8d                                   0x2003fe46           1     unsigned char                  
+            gatts_evt                                             <struct>                               0x2003fe40           18    struct                         
+                conn_handle                                       0x0000                                 0x2003fe40           2     short unsigned int             
+                params                                            <union>                                0x2003fe42           16    union                          
+                    write                                         <struct>                               0x2003fe42           14    struct                         
+                        handle                                    0x2000                                 0x2003fe42           2     short unsigned int             
+                        uuid                                      <struct>                               0x2003fe44           4     struct                         
+                            uuid                                  0xdb04                                 0x2003fe44           2     short unsigned int             
+                            type                                  0x8d                                   0x2003fe46           1     unsigned char                  
+                        op                                        0x6f                                   0x2003fe48           1     unsigned char                  
+                        auth_required                             0xf7                                   0x2003fe49           1     unsigned char                  
+                        offset                                    0x027f                                 0x2003fe4a           2     short unsigned int             
+                        len                                       0x0018                                 0x2003fe4c           2     short unsigned int             
+                        data                                      ""                                     0x2003fe4e           1     uint8_t[1]                     
+                    authorize_request                             <struct>                               0x2003fe42           16    struct                         
+                        type                                      0x00                                   0x2003fe42           1     unsigned char                  
+                        request                                   <union>                                0x2003fe44           14    union                          
+                            read                                  <struct>                               0x2003fe44           8     struct                         
+                                handle                            0xdb04                                 0x2003fe44           2     short unsigned int             
+                                uuid                              <struct>                               0x2003fe46           4     struct                         
+                                    uuid                          0xea8d                                 0x2003fe46           2     short unsigned int             
+                                    type                          0x6f                                   0x2003fe48           1     unsigned char                  
+                                offset                            0x027f                                 0x2003fe4a           2     short unsigned int             
+                            write                                 <struct>                               0x2003fe44           14    struct                         
+                                handle                            0xdb04                                 0x2003fe44           2     short unsigned int             
+                                uuid                              <struct>                               0x2003fe46           4     struct                         
+                                    uuid                          0xea8d                                 0x2003fe46           2     short unsigned int             
+                                    type                          0x6f                                   0x2003fe48           1     unsigned char                  
+                                op                                0x7f                                   0x2003fe4a           1     unsigned char                  
+                                auth_required                     0x02                                   0x2003fe4b           1     unsigned char                  
+                                offset                            0x0018                                 0x2003fe4c           2     short unsigned int             
+                                len                               0x0018                                 0x2003fe4e           2     short unsigned int             
+                                data                              ""                                     0x2003fe50           1     uint8_t[1]                     
+                    sys_attr_missing                              <struct>                               0x2003fe42           1     struct                         
+                        hint                                      0x00                                   0x2003fe42           1     unsigned char                  
+                    hvc                                           <struct>                               0x2003fe42           2     struct                         
+                        handle                                    0x2000                                 0x2003fe42           2     short unsigned int             
+                    exchange_mtu_request                          <struct>                               0x2003fe42           2     struct                         
+                        client_rx_mtu                             0x2000                                 0x2003fe42           2     short unsigned int             
+                    timeout                                       <struct>                               0x2003fe42           1     struct                         
+                        src                                       0x00                                   0x2003fe42           1     unsigned char                  
+                    hvn_tx_complete                               <struct>                               0x2003fe42           1     struct                         
+                        count                                     0x00                                   0x2003fe42           1     unsigned char                  
+            l2cap_evt                                             <struct>                               0x2003fe40           16    struct                         
+                conn_handle                                       0x0000                                 0x2003fe40           2     short unsigned int             
+                local_cid                                         0x2000                                 0x2003fe42           2     short unsigned int             
+                params                                            <union>                                0x2003fe44           12    union                          
+                    ch_setup_request                              <struct>                               0x2003fe44           10    struct                         
+                        tx_params                                 <struct>                               0x2003fe44           8     struct                         
+                            tx_mtu                                0xdb04                                 0x2003fe44           2     short unsigned int             
+                            peer_mps                              0xea8d                                 0x2003fe46           2     short unsigned int             
+                            tx_mps                                0xf76f                                 0x2003fe48           2     short unsigned int             
+                            credits                               0x027f                                 0x2003fe4a           2     short unsigned int             
+                        le_psm                                    0x0018                                 0x2003fe4c           2     short unsigned int             
+                    ch_setup_refused                              <struct>                               0x2003fe44           4     struct                         
+                        source                                    0x04                                   0x2003fe44           1     unsigned char                  
+                        status                                    0xea8d                                 0x2003fe46           2     short unsigned int             
+                    ch_setup                                      <struct>                               0x2003fe44           8     struct                         
+                        tx_params                                 <struct>                               0x2003fe44           8     struct                         
+                            tx_mtu                                0xdb04                                 0x2003fe44           2     short unsigned int             
+                            peer_mps                              0xea8d                                 0x2003fe46           2     short unsigned int             
+                            tx_mps                                0xf76f                                 0x2003fe48           2     short unsigned int             
+                            credits                               0x027f                                 0x2003fe4a           2     short unsigned int             
+                    ch_sdu_buf_released                           <struct>                               0x2003fe44           8     struct                         
+                        sdu_buf                                   <struct>                               0x2003fe44           8     struct                         
+                            p_data                                0xea8ddb04                             0x2003fe44           4     uint8_t*                       
+                            len                                   0xf76f                                 0x2003fe48           2     short unsigned int             
+                    credit                                        <struct>                               0x2003fe44           2     struct                         
+                        credits                                   0xdb04                                 0x2003fe44           2     short unsigned int             
+                    rx                                            <struct>                               0x2003fe44           12    struct                         
+                        sdu_len                                   0xdb04                                 0x2003fe44           2     short unsigned int             
+                        sdu_buf                                   <struct>                               0x2003fe48           8     struct                         
+                            p_data                                0x027ff76f                             0x2003fe48           4     uint8_t*                       
+                            len                                   0x0018                                 0x2003fe4c           2     short unsigned int             
+                    tx                                            <struct>                               0x2003fe44           8     struct                         
+                        sdu_buf                                   <struct>                               0x2003fe44           8     struct                         
+                            p_data                                0xea8ddb04                             0x2003fe44           4     uint8_t*                       
+                            len                                   0xf76f                                 0x2003fe48           2     short unsigned int             
+p_context                                                         0x00000000                                                  4     void*                          
+role                                                              0x0002                                 r7                   2     short unsigned int             
