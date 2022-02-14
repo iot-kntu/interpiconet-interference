@@ -10,7 +10,7 @@ We implemented simulation in python. first run the main.py file in simulation fo
 
 ## Controller
 
-This is for controller node. when you run main.py in experimental folder, the master node scans and collects channel maps then runs channel separation algorithm and advertises new channel maps.
+This is for controller node. when you run main.py in controller folder, the master node scans and collects channel maps then runs channel separation algorithm and advertises new channel maps.
 
 ## Master
 
