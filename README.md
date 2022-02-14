@@ -8,7 +8,7 @@ With the growth of the Internet of Things and the use of various communication d
 
 We implemented simulation in python. first run the main.py file in simulation folder then run plot.py for charts.
 
-## Experimental
+## Controller
 
 This is for controller node. when you run main.py in experimental folder, the master node scans and collects channel maps then runs channel separation algorithm and advertises new channel maps.
 
