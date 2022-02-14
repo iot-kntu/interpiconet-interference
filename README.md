@@ -15,4 +15,3 @@ This is for controller node. when you run main.py in experimental folder, the ma
 ## Master
 
 Put ble_app_multirole_lesc_interference_mitigation folder in nRF5_SDK_17.0.2/examples/ble_central_and_peripheral/experimental and run the .em file with SEGGER Embedded Studio.
-
